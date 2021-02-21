@@ -6,7 +6,7 @@
 /* --- offsets --- */
 
 /* --- 1.7.6.8408002 --- */
-#define BASE_PLAYERBASE     0xFC297B8
+#define BASE_PLAYERBASE     0x10A97348
 #define BASE_ZMXPSCBASE     0xFC517B0
 
 #define BOFF_ZMBOTBASE      0x68
